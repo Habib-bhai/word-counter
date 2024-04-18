@@ -1,0 +1,19 @@
+{
+  "name": "bro-habib-word-counter",
+  "version": "1.0.1",
+  "description": "This project is about creating a CLI based word counter that will tell you how much words you have entered in your input",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "author": "Bro-Habib",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
